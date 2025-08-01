@@ -1,0 +1,414 @@
+C:\Users\0040482421004\Documents\C#\Projetos\WebApplication4\WebApplication4\bin\WebApplication4.dll.config
+C:\Users\0040482421004\Documents\C#\Projetos\WebApplication4\WebApplication4\bin\WebApplication4.dll
+C:\Users\0040482421004\Documents\C#\Projetos\WebApplication4\WebApplication4\bin\WebApplication4.pdb
+C:\Users\0040482421004\Documents\C#\Projetos\WebApplication4\WebApplication4\bin\roslyn\csc.exe
+C:\Users\0040482421004\Documents\C#\Projetos\WebApplication4\WebApplication4\bin\roslyn\csc.exe.config
+C:\Users\0040482421004\Documents\C#\Projetos\WebApplication4\WebApplication4\bin\roslyn\csc.rsp
+C:\Users\0040482421004\Documents\C#\Projetos\WebApplication4\WebApplication4\bin\roslyn\csi.exe
+C:\Users\0040482421004\Documents\C#\Projetos\WebApplication4\WebApplication4\bin\roslyn\csi.exe.config
+C:\Users\0040482421004\Documents\C#\Projetos\WebApplication4\WebApplication4\bin\roslyn\csi.rsp
+C:\Users\0040482421004\Documents\C#\Projetos\WebApplication4\WebApplication4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\0040482421004\Documents\C#\Projetos\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\0040482421004\Documents\C#\Projetos\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\0040482421004\Documents\C#\Projetos\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\0040482421004\Documents\C#\Projetos\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\0040482421004\Documents\C#\Projetos\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\0040482421004\Documents\C#\Projetos\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\0040482421004\Documents\C#\Projetos\WebApplication4\WebApplication4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\0040482421004\Documents\C#\Projetos\WebApplication4\WebApplication4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\0040482421004\Documents\C#\Projetos\WebApplication4\WebApplication4\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\0040482421004\Documents\C#\Projetos\WebApplication4\WebApplication4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\0040482421004\Documents\C#\Projetos\WebApplication4\WebApplication4\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\0040482421004\Documents\C#\Projetos\WebApplication4\WebApplication4\bin\roslyn\System.AppContext.dll
+C:\Users\0040482421004\Documents\C#\Projetos\WebApplication4\WebApplication4\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\0040482421004\Documents\C#\Projetos\WebApplication4\WebApplication4\bin\roslyn\System.Console.dll
+C:\Users\0040482421004\Documents\C#\Projetos\WebApplication4\WebApplication4\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\0040482421004\Documents\C#\Projetos\WebApplication4\WebApplication4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\0040482421004\Documents\C#\Projetos\WebApplication4\WebApplication4\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\0040482421004\Documents\C#\Projetos\WebApplication4\WebApplication4\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\0040482421004\Documents\C#\Projetos\WebApplication4\WebApplication4\bin\roslyn\System.IO.Compression.dll
+C:\Users\0040482421004\Documents\C#\Projetos\WebApplication4\WebApplication4\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\0040482421004\Documents\C#\Projetos\WebApplication4\WebApplication4\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\0040482421004\Documents\C#\Projetos\WebApplication4\WebApplication4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\0040482421004\Documents\C#\Projetos\WebApplication4\WebApplication4\bin\roslyn\System.Net.Http.dll
+C:\Users\0040482421004\Documents\C#\Projetos\WebApplication4\WebApplication4\bin\roslyn\System.Net.Sockets.dll
+C:\Users\0040482421004\Documents\C#\Projetos\WebApplication4\WebApplication4\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\0040482421004\Documents\C#\Projetos\WebApplication4\WebApplication4\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\0040482421004\Documents\C#\Projetos\WebApplication4\WebApplication4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\0040482421004\Documents\C#\Projetos\WebApplication4\WebApplication4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\0040482421004\Documents\C#\Projetos\WebApplication4\WebApplication4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\0040482421004\Documents\C#\Projetos\WebApplication4\WebApplication4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\0040482421004\Documents\C#\Projetos\WebApplication4\WebApplication4\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\0040482421004\Documents\C#\Projetos\WebApplication4\WebApplication4\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\0040482421004\Documents\C#\Projetos\WebApplication4\WebApplication4\bin\roslyn\System.ValueTuple.dll
+C:\Users\0040482421004\Documents\C#\Projetos\WebApplication4\WebApplication4\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\0040482421004\Documents\C#\Projetos\WebApplication4\WebApplication4\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\0040482421004\Documents\C#\Projetos\WebApplication4\WebApplication4\bin\roslyn\System.Xml.XPath.dll
+C:\Users\0040482421004\Documents\C#\Projetos\WebApplication4\WebApplication4\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\0040482421004\Documents\C#\Projetos\WebApplication4\WebApplication4\bin\roslyn\vbc.exe
+C:\Users\0040482421004\Documents\C#\Projetos\WebApplication4\WebApplication4\bin\roslyn\vbc.exe.config
+C:\Users\0040482421004\Documents\C#\Projetos\WebApplication4\WebApplication4\bin\roslyn\vbc.rsp
+C:\Users\0040482421004\Documents\C#\Projetos\WebApplication4\WebApplication4\bin\roslyn\VBCSCompiler.exe
+C:\Users\0040482421004\Documents\C#\Projetos\WebApplication4\WebApplication4\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\0040482421004\Documents\C#\Projetos\WebApplication4\WebApplication4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\0040482421004\Documents\C#\Projetos\WebApplication4\WebApplication4\obj\Debug\WebApplication4.csproj.AssemblyReference.cache
+C:\Users\0040482421004\Documents\C#\Projetos\WebApplication4\WebApplication4\obj\Debug\WebApplication4.csproj.CoreCompileInputs.cache
+C:\Users\0040482421004\Documents\C#\Projetos\WebApplication4\WebApplication4\obj\Debug\WebAppli.EC757EB8.Up2Date
+C:\Users\0040482421004\Documents\C#\Projetos\WebApplication4\WebApplication4\obj\Debug\WebApplication4.dll
+C:\Users\0040482421004\Documents\C#\Projetos\WebApplication4\WebApplication4\obj\Debug\WebApplication4.pdb
+C:\Users\0040482421004\Documents\C#\Projetos\WebApplication4\WebApplication4\bin\TratamentoExcecoes.dll
+C:\Users\0040482421004\Documents\C#\Projetos\WebApplication4\WebApplication4\bin\TratamentoExcecoes.pdb
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\site india\WebApplication4\WebApplication4\bin\WebApplication4.dll.config
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\site india\WebApplication4\WebApplication4\bin\WebApplication4.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\site india\WebApplication4\WebApplication4\bin\WebApplication4.pdb
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\site india\WebApplication4\WebApplication4\bin\roslyn\csc.exe
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\site india\WebApplication4\WebApplication4\bin\roslyn\csc.exe.config
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\site india\WebApplication4\WebApplication4\bin\roslyn\csc.rsp
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\site india\WebApplication4\WebApplication4\bin\roslyn\csi.exe
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\site india\WebApplication4\WebApplication4\bin\roslyn\csi.exe.config
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\site india\WebApplication4\WebApplication4\bin\roslyn\csi.rsp
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\site india\WebApplication4\WebApplication4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\site india\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\site india\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\site india\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\site india\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\site india\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\site india\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\site india\WebApplication4\WebApplication4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\site india\WebApplication4\WebApplication4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\site india\WebApplication4\WebApplication4\bin\roslyn\Microsoft.Managed.Core.targets
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\site india\WebApplication4\WebApplication4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\site india\WebApplication4\WebApplication4\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\site india\WebApplication4\WebApplication4\bin\roslyn\System.AppContext.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\site india\WebApplication4\WebApplication4\bin\roslyn\System.Collections.Immutable.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\site india\WebApplication4\WebApplication4\bin\roslyn\System.Console.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\site india\WebApplication4\WebApplication4\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\site india\WebApplication4\WebApplication4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\site india\WebApplication4\WebApplication4\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\site india\WebApplication4\WebApplication4\bin\roslyn\System.Globalization.Calendars.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\site india\WebApplication4\WebApplication4\bin\roslyn\System.IO.Compression.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\site india\WebApplication4\WebApplication4\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\site india\WebApplication4\WebApplication4\bin\roslyn\System.IO.FileSystem.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\site india\WebApplication4\WebApplication4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\site india\WebApplication4\WebApplication4\bin\roslyn\System.Net.Http.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\site india\WebApplication4\WebApplication4\bin\roslyn\System.Net.Sockets.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\site india\WebApplication4\WebApplication4\bin\roslyn\System.Reflection.Metadata.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\site india\WebApplication4\WebApplication4\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\site india\WebApplication4\WebApplication4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\site india\WebApplication4\WebApplication4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\site india\WebApplication4\WebApplication4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\site india\WebApplication4\WebApplication4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\site india\WebApplication4\WebApplication4\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\site india\WebApplication4\WebApplication4\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\site india\WebApplication4\WebApplication4\bin\roslyn\System.ValueTuple.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\site india\WebApplication4\WebApplication4\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\site india\WebApplication4\WebApplication4\bin\roslyn\System.Xml.XmlDocument.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\site india\WebApplication4\WebApplication4\bin\roslyn\System.Xml.XPath.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\site india\WebApplication4\WebApplication4\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\site india\WebApplication4\WebApplication4\bin\roslyn\vbc.exe
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\site india\WebApplication4\WebApplication4\bin\roslyn\vbc.exe.config
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\site india\WebApplication4\WebApplication4\bin\roslyn\vbc.rsp
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\site india\WebApplication4\WebApplication4\bin\roslyn\VBCSCompiler.exe
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\site india\WebApplication4\WebApplication4\bin\roslyn\VBCSCompiler.exe.config
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\site india\WebApplication4\WebApplication4\bin\TratamentoExcecoes.pdb
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\site india\WebApplication4\WebApplication4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\site india\WebApplication4\WebApplication4\obj\Debug\WebApplication4.csproj.AssemblyReference.cache
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\site india\WebApplication4\WebApplication4\obj\Debug\WebApplication4.csproj.CoreCompileInputs.cache
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\site india\WebApplication4\WebApplication4\obj\Debug\WebAppli.EC757EB8.Up2Date
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\site india\WebApplication4\WebApplication4\obj\Debug\WebApplication4.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\site india\WebApplication4\WebApplication4\obj\Debug\WebApplication4.pdb
+C:\Users\ODD\Documents\projetosCsharp\site india\WebApplication4\WebApplication4\bin\WebApplication4.dll.config
+C:\Users\ODD\Documents\projetosCsharp\site india\WebApplication4\WebApplication4\bin\WebApplication4.dll
+C:\Users\ODD\Documents\projetosCsharp\site india\WebApplication4\WebApplication4\bin\WebApplication4.pdb
+C:\Users\ODD\Documents\projetosCsharp\site india\WebApplication4\WebApplication4\bin\roslyn\csc.exe
+C:\Users\ODD\Documents\projetosCsharp\site india\WebApplication4\WebApplication4\bin\roslyn\csc.exe.config
+C:\Users\ODD\Documents\projetosCsharp\site india\WebApplication4\WebApplication4\bin\roslyn\csc.rsp
+C:\Users\ODD\Documents\projetosCsharp\site india\WebApplication4\WebApplication4\bin\roslyn\csi.exe
+C:\Users\ODD\Documents\projetosCsharp\site india\WebApplication4\WebApplication4\bin\roslyn\csi.exe.config
+C:\Users\ODD\Documents\projetosCsharp\site india\WebApplication4\WebApplication4\bin\roslyn\csi.rsp
+C:\Users\ODD\Documents\projetosCsharp\site india\WebApplication4\WebApplication4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ODD\Documents\projetosCsharp\site india\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ODD\Documents\projetosCsharp\site india\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ODD\Documents\projetosCsharp\site india\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ODD\Documents\projetosCsharp\site india\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ODD\Documents\projetosCsharp\site india\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ODD\Documents\projetosCsharp\site india\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ODD\Documents\projetosCsharp\site india\WebApplication4\WebApplication4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ODD\Documents\projetosCsharp\site india\WebApplication4\WebApplication4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ODD\Documents\projetosCsharp\site india\WebApplication4\WebApplication4\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ODD\Documents\projetosCsharp\site india\WebApplication4\WebApplication4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ODD\Documents\projetosCsharp\site india\WebApplication4\WebApplication4\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ODD\Documents\projetosCsharp\site india\WebApplication4\WebApplication4\bin\roslyn\System.AppContext.dll
+C:\Users\ODD\Documents\projetosCsharp\site india\WebApplication4\WebApplication4\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ODD\Documents\projetosCsharp\site india\WebApplication4\WebApplication4\bin\roslyn\System.Console.dll
+C:\Users\ODD\Documents\projetosCsharp\site india\WebApplication4\WebApplication4\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ODD\Documents\projetosCsharp\site india\WebApplication4\WebApplication4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ODD\Documents\projetosCsharp\site india\WebApplication4\WebApplication4\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ODD\Documents\projetosCsharp\site india\WebApplication4\WebApplication4\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ODD\Documents\projetosCsharp\site india\WebApplication4\WebApplication4\bin\roslyn\System.IO.Compression.dll
+C:\Users\ODD\Documents\projetosCsharp\site india\WebApplication4\WebApplication4\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ODD\Documents\projetosCsharp\site india\WebApplication4\WebApplication4\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ODD\Documents\projetosCsharp\site india\WebApplication4\WebApplication4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ODD\Documents\projetosCsharp\site india\WebApplication4\WebApplication4\bin\roslyn\System.Net.Http.dll
+C:\Users\ODD\Documents\projetosCsharp\site india\WebApplication4\WebApplication4\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ODD\Documents\projetosCsharp\site india\WebApplication4\WebApplication4\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ODD\Documents\projetosCsharp\site india\WebApplication4\WebApplication4\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ODD\Documents\projetosCsharp\site india\WebApplication4\WebApplication4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ODD\Documents\projetosCsharp\site india\WebApplication4\WebApplication4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ODD\Documents\projetosCsharp\site india\WebApplication4\WebApplication4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ODD\Documents\projetosCsharp\site india\WebApplication4\WebApplication4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ODD\Documents\projetosCsharp\site india\WebApplication4\WebApplication4\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ODD\Documents\projetosCsharp\site india\WebApplication4\WebApplication4\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ODD\Documents\projetosCsharp\site india\WebApplication4\WebApplication4\bin\roslyn\System.ValueTuple.dll
+C:\Users\ODD\Documents\projetosCsharp\site india\WebApplication4\WebApplication4\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ODD\Documents\projetosCsharp\site india\WebApplication4\WebApplication4\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ODD\Documents\projetosCsharp\site india\WebApplication4\WebApplication4\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ODD\Documents\projetosCsharp\site india\WebApplication4\WebApplication4\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ODD\Documents\projetosCsharp\site india\WebApplication4\WebApplication4\bin\roslyn\vbc.exe
+C:\Users\ODD\Documents\projetosCsharp\site india\WebApplication4\WebApplication4\bin\roslyn\vbc.exe.config
+C:\Users\ODD\Documents\projetosCsharp\site india\WebApplication4\WebApplication4\bin\roslyn\vbc.rsp
+C:\Users\ODD\Documents\projetosCsharp\site india\WebApplication4\WebApplication4\bin\roslyn\VBCSCompiler.exe
+C:\Users\ODD\Documents\projetosCsharp\site india\WebApplication4\WebApplication4\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ODD\Documents\projetosCsharp\site india\WebApplication4\WebApplication4\bin\TratamentoExcecoes.pdb
+C:\Users\ODD\Documents\projetosCsharp\site india\WebApplication4\WebApplication4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ODD\Documents\projetosCsharp\site india\WebApplication4\WebApplication4\obj\Debug\WebApplication4.csproj.AssemblyReference.cache
+C:\Users\ODD\Documents\projetosCsharp\site india\WebApplication4\WebApplication4\obj\Debug\WebApplication4.csproj.CoreCompileInputs.cache
+C:\Users\ODD\Documents\projetosCsharp\site india\WebApplication4\WebApplication4\obj\Debug\WebAppli.EC757EB8.Up2Date
+C:\Users\ODD\Documents\projetosCsharp\site india\WebApplication4\WebApplication4\obj\Debug\WebApplication4.dll
+C:\Users\ODD\Documents\projetosCsharp\site india\WebApplication4\WebApplication4\obj\Debug\WebApplication4.pdb
+C:\Users\Enzo\Downloads\WebApplication4\WebApplication4\WebApplication4\bin\WebApplication4.dll.config
+C:\Users\Enzo\Downloads\WebApplication4\WebApplication4\WebApplication4\bin\WebApplication4.dll
+C:\Users\Enzo\Downloads\WebApplication4\WebApplication4\WebApplication4\bin\WebApplication4.pdb
+C:\Users\Enzo\Downloads\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\csc.exe
+C:\Users\Enzo\Downloads\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\csc.exe.config
+C:\Users\Enzo\Downloads\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\csc.rsp
+C:\Users\Enzo\Downloads\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\csi.exe
+C:\Users\Enzo\Downloads\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\csi.exe.config
+C:\Users\Enzo\Downloads\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\csi.rsp
+C:\Users\Enzo\Downloads\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Enzo\Downloads\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Enzo\Downloads\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Enzo\Downloads\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Enzo\Downloads\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Enzo\Downloads\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Enzo\Downloads\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Enzo\Downloads\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Enzo\Downloads\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Enzo\Downloads\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Enzo\Downloads\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Enzo\Downloads\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Enzo\Downloads\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\System.AppContext.dll
+C:\Users\Enzo\Downloads\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Enzo\Downloads\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\System.Console.dll
+C:\Users\Enzo\Downloads\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Enzo\Downloads\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Enzo\Downloads\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Enzo\Downloads\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Enzo\Downloads\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\System.IO.Compression.dll
+C:\Users\Enzo\Downloads\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Enzo\Downloads\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Enzo\Downloads\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Enzo\Downloads\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\System.Net.Http.dll
+C:\Users\Enzo\Downloads\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Enzo\Downloads\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Enzo\Downloads\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Enzo\Downloads\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Enzo\Downloads\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Enzo\Downloads\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Enzo\Downloads\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Enzo\Downloads\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Enzo\Downloads\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Enzo\Downloads\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\System.ValueTuple.dll
+C:\Users\Enzo\Downloads\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Enzo\Downloads\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Enzo\Downloads\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Enzo\Downloads\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Enzo\Downloads\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\vbc.exe
+C:\Users\Enzo\Downloads\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\vbc.exe.config
+C:\Users\Enzo\Downloads\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\vbc.rsp
+C:\Users\Enzo\Downloads\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\VBCSCompiler.exe
+C:\Users\Enzo\Downloads\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Enzo\Downloads\WebApplication4\WebApplication4\WebApplication4\bin\TratamentoExcecoes.pdb
+C:\Users\Enzo\Downloads\WebApplication4\WebApplication4\WebApplication4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Enzo\Downloads\WebApplication4\WebApplication4\WebApplication4\obj\Debug\WebApplication4.csproj.AssemblyReference.cache
+C:\Users\Enzo\Downloads\WebApplication4\WebApplication4\WebApplication4\obj\Debug\WebApplication4.csproj.CoreCompileInputs.cache
+C:\Users\Enzo\Downloads\WebApplication4\WebApplication4\WebApplication4\obj\Debug\WebAppli.EC757EB8.Up2Date
+C:\Users\Enzo\Downloads\WebApplication4\WebApplication4\WebApplication4\obj\Debug\WebApplication4.dll
+C:\Users\Enzo\Downloads\WebApplication4\WebApplication4\WebApplication4\obj\Debug\WebApplication4.pdb
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\WebApplication4\bin\WebApplication4.dll.config
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\WebApplication4\bin\WebApplication4.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\WebApplication4\bin\WebApplication4.pdb
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\csc.exe
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\csc.exe.config
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\csc.rsp
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\csi.exe
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\csi.exe.config
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\csi.rsp
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\Microsoft.Managed.Core.targets
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\System.AppContext.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\System.Collections.Immutable.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\System.Console.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\System.Globalization.Calendars.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\System.IO.Compression.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\System.IO.FileSystem.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\System.Net.Http.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\System.Net.Sockets.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\System.Reflection.Metadata.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\System.ValueTuple.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\System.Xml.XmlDocument.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\System.Xml.XPath.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\vbc.exe
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\vbc.exe.config
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\vbc.rsp
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\VBCSCompiler.exe
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\WebApplication4\bin\roslyn\VBCSCompiler.exe.config
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\WebApplication4\bin\TratamentoExcecoes.pdb
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\WebApplication4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\WebApplication4\obj\Debug\WebApplication4.csproj.AssemblyReference.cache
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\WebApplication4\obj\Debug\WebApplication4.csproj.CoreCompileInputs.cache
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\WebApplication4\obj\Debug\WebAppli.EC757EB8.Up2Date
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\WebApplication4\obj\Debug\WebApplication4.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\WebApplication4\obj\Debug\WebApplication4.pdb
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\bin\WebApplication4.dll.config
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\bin\WebApplication4.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\bin\WebApplication4.pdb
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\bin\roslyn\csc.exe
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\bin\roslyn\csc.exe.config
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\bin\roslyn\csc.rsp
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\bin\roslyn\csi.exe
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\bin\roslyn\csi.exe.config
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\bin\roslyn\csi.rsp
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\bin\roslyn\Microsoft.Managed.Core.targets
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\bin\roslyn\System.AppContext.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\bin\roslyn\System.Collections.Immutable.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\bin\roslyn\System.Console.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\bin\roslyn\System.Globalization.Calendars.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\bin\roslyn\System.IO.Compression.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\bin\roslyn\System.IO.FileSystem.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\bin\roslyn\System.Net.Http.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\bin\roslyn\System.Net.Sockets.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\bin\roslyn\System.Reflection.Metadata.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\bin\roslyn\System.ValueTuple.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\bin\roslyn\System.Xml.XmlDocument.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\bin\roslyn\System.Xml.XPath.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\bin\roslyn\vbc.exe
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\bin\roslyn\vbc.exe.config
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\bin\roslyn\vbc.rsp
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\bin\roslyn\VBCSCompiler.exe
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\bin\roslyn\VBCSCompiler.exe.config
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\bin\TratamentoExcecoes.pdb
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\obj\Debug\WebApplication4.csproj.AssemblyReference.cache
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\obj\Debug\WebApplication4.csproj.CoreCompileInputs.cache
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\obj\Debug\WebAppli.EC757EB8.Up2Date
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\obj\Debug\WebApplication4.dll
+D:\FATEC\2 SEM\Linguagem de Programação 2 ( C# ) - Diogenes\Trabalho Site\Cronos\WebApplication4\WebApplication4\obj\Debug\WebApplication4.pdb
+C:\Users\Enzo\Downloads\Cronos\WebApplication4\WebApplication4\bin\WebApplication4.dll.config
+C:\Users\Enzo\Downloads\Cronos\WebApplication4\WebApplication4\bin\WebApplication4.dll
+C:\Users\Enzo\Downloads\Cronos\WebApplication4\WebApplication4\bin\WebApplication4.pdb
+C:\Users\Enzo\Downloads\Cronos\WebApplication4\WebApplication4\bin\roslyn\csc.exe
+C:\Users\Enzo\Downloads\Cronos\WebApplication4\WebApplication4\bin\roslyn\csc.exe.config
+C:\Users\Enzo\Downloads\Cronos\WebApplication4\WebApplication4\bin\roslyn\csc.rsp
+C:\Users\Enzo\Downloads\Cronos\WebApplication4\WebApplication4\bin\roslyn\csi.exe
+C:\Users\Enzo\Downloads\Cronos\WebApplication4\WebApplication4\bin\roslyn\csi.exe.config
+C:\Users\Enzo\Downloads\Cronos\WebApplication4\WebApplication4\bin\roslyn\csi.rsp
+C:\Users\Enzo\Downloads\Cronos\WebApplication4\WebApplication4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Enzo\Downloads\Cronos\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Enzo\Downloads\Cronos\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Enzo\Downloads\Cronos\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Enzo\Downloads\Cronos\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Enzo\Downloads\Cronos\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Enzo\Downloads\Cronos\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Enzo\Downloads\Cronos\WebApplication4\WebApplication4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Enzo\Downloads\Cronos\WebApplication4\WebApplication4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Enzo\Downloads\Cronos\WebApplication4\WebApplication4\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Enzo\Downloads\Cronos\WebApplication4\WebApplication4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Enzo\Downloads\Cronos\WebApplication4\WebApplication4\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Enzo\Downloads\Cronos\WebApplication4\WebApplication4\bin\roslyn\System.AppContext.dll
+C:\Users\Enzo\Downloads\Cronos\WebApplication4\WebApplication4\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Enzo\Downloads\Cronos\WebApplication4\WebApplication4\bin\roslyn\System.Console.dll
+C:\Users\Enzo\Downloads\Cronos\WebApplication4\WebApplication4\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Enzo\Downloads\Cronos\WebApplication4\WebApplication4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Enzo\Downloads\Cronos\WebApplication4\WebApplication4\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Enzo\Downloads\Cronos\WebApplication4\WebApplication4\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Enzo\Downloads\Cronos\WebApplication4\WebApplication4\bin\roslyn\System.IO.Compression.dll
+C:\Users\Enzo\Downloads\Cronos\WebApplication4\WebApplication4\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Enzo\Downloads\Cronos\WebApplication4\WebApplication4\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Enzo\Downloads\Cronos\WebApplication4\WebApplication4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Enzo\Downloads\Cronos\WebApplication4\WebApplication4\bin\roslyn\System.Net.Http.dll
+C:\Users\Enzo\Downloads\Cronos\WebApplication4\WebApplication4\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Enzo\Downloads\Cronos\WebApplication4\WebApplication4\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Enzo\Downloads\Cronos\WebApplication4\WebApplication4\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Enzo\Downloads\Cronos\WebApplication4\WebApplication4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Enzo\Downloads\Cronos\WebApplication4\WebApplication4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Enzo\Downloads\Cronos\WebApplication4\WebApplication4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Enzo\Downloads\Cronos\WebApplication4\WebApplication4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Enzo\Downloads\Cronos\WebApplication4\WebApplication4\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Enzo\Downloads\Cronos\WebApplication4\WebApplication4\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Enzo\Downloads\Cronos\WebApplication4\WebApplication4\bin\roslyn\System.ValueTuple.dll
+C:\Users\Enzo\Downloads\Cronos\WebApplication4\WebApplication4\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Enzo\Downloads\Cronos\WebApplication4\WebApplication4\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Enzo\Downloads\Cronos\WebApplication4\WebApplication4\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Enzo\Downloads\Cronos\WebApplication4\WebApplication4\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Enzo\Downloads\Cronos\WebApplication4\WebApplication4\bin\roslyn\vbc.exe
+C:\Users\Enzo\Downloads\Cronos\WebApplication4\WebApplication4\bin\roslyn\vbc.exe.config
+C:\Users\Enzo\Downloads\Cronos\WebApplication4\WebApplication4\bin\roslyn\vbc.rsp
+C:\Users\Enzo\Downloads\Cronos\WebApplication4\WebApplication4\bin\roslyn\VBCSCompiler.exe
+C:\Users\Enzo\Downloads\Cronos\WebApplication4\WebApplication4\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Enzo\Downloads\Cronos\WebApplication4\WebApplication4\bin\TratamentoExcecoes.pdb
+C:\Users\Enzo\Downloads\Cronos\WebApplication4\WebApplication4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Enzo\Downloads\Cronos\WebApplication4\WebApplication4\obj\Debug\WebApplication4.csproj.AssemblyReference.cache
+C:\Users\Enzo\Downloads\Cronos\WebApplication4\WebApplication4\obj\Debug\WebApplication4.csproj.CoreCompileInputs.cache
+C:\Users\Enzo\Downloads\Cronos\WebApplication4\WebApplication4\obj\Debug\WebAppli.EC757EB8.Up2Date
+C:\Users\Enzo\Downloads\Cronos\WebApplication4\WebApplication4\obj\Debug\WebApplication4.dll
+C:\Users\Enzo\Downloads\Cronos\WebApplication4\WebApplication4\obj\Debug\WebApplication4.pdb

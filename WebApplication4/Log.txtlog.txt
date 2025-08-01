@@ -1,0 +1,6 @@
+2025-05-06 17:38:59 -    em System.Net.Mail.SmtpClient.Send(MailMessage message)
+   em WebApplication4.Contato.Enviar_Click(Object sender, EventArgs e) na C:\Users\ODD\Documents\projetosCsharp\site india\WebApplication4\WebApplication4\Contato.aspx.cs:linha 65
+
+2025-05-06 17:40:04 -    em System.Net.Mail.SmtpClient.Send(MailMessage message)
+   em WebApplication4.Contato.Enviar_Click(Object sender, EventArgs e) na C:\Users\ODD\Documents\projetosCsharp\site india\WebApplication4\WebApplication4\Contato.aspx.cs:linha 65
+

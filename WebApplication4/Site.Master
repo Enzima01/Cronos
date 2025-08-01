@@ -1,0 +1,294 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="WebApplication4.Site" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="css\Projeto.css" rel="stylesheet" />
+    <link href="css\StyleSheet.css" rel="stylesheet" />
+    <script src="javascript\jquery-1.7.2.min.js"></script>
+    <script src="javascript\flexslider.min.js"></script>
+    <link href="javascript\flexslider.css" rel="stylesheet" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">
+
+    <style>
+        /* Estilos base (para telas maiores) */
+        body {
+            background-color: #00ced1; /* Cor de fundo do body */
+            margin: 0; /* Remove margens padrão do body */
+            font-family: sans-serif; /* Fonte padrão para o texto */
+        }
+
+        .cabecalho {
+            background-color: #f5f5f5; /* Cor de fundo do cabeçalho */
+            display: flex;
+            justify-content: space-between; /* Mantém o espaço entre logo/texto e menu */
+            align-items: center; /* Alinhamento vertical ao centro */
+            height: 10vh; /* Altura relativa à altura da viewport */
+            padding: 0 5vw; /* Margem interna relativa à largura da viewport */
+            box-sizing: border-box; /* Garante que o padding não afete a altura total */
+            padding-left: 10vw; /* Adiciona padding à esquerda */
+            padding-right: 10vw; /* Adiciona padding à direita */
+        }
+
+        .logomarca-container {
+            display: flex; /* Alinha a logo e o texto lado a lado */
+            align-items: center; /* Alinha verticalmente a logo e o texto */
+        }
+
+        .logomarca img {
+            max-width: 10vw; /* Largura máxima relativa à largura da viewport */
+            height: auto;
+            max-height: 7vh; /* Altura máxima relativa à altura da viewport */
+            margin-right: 1vw; /* Adiciona um pequeno espaço entre a logo e o texto */
+            justify-content: center;
+        }
+
+        .texto-logo {
+            color: #1e1e1e; /* Cor do texto "Cronos" */
+            font-family: 'Poppins', sans-serif; /* Fonte Poppins */
+            font-weight: bold; /* Texto em negrito */
+            font-size: 28px; /* Tamanho da fonte */
+        }
+
+        .barra-menu {
+            display: flex;
+            gap: 2vw; /* Espaço entre os links relativo à largura da viewport */
+        }
+
+        .barra-menu a {
+            color: #1e1e1e; /* Cor dos links */
+            font-family: 'Poppins', sans-serif; /* Fonte Poppins */
+            font-weight: normal; /* Peso da fonte regular */
+            text-decoration: none;
+            font-size: 14px; /* Tamanho da fonte */
+        }
+
+        .barra-menu a:hover {
+            color: #ff007f; /* Cor do hover nos links */
+            text-decoration: none;
+        }
+
+        .conteudo {
+            padding: 2vh 5vw; /* Margem interna superior/inferior e laterais relativas à viewport */
+            /* Largura pode ser controlada pelo content-wrap */
+            box-sizing: border-box;
+        }
+
+        .content-wrap {
+            max-width: 80vw; /* Largura máxima do conteúdo principal relativa à largura da viewport */
+            margin: 0 auto;
+            padding: 0 2vw; /* Espaço nas laterais do conteúdo */
+            box-sizing: border-box;
+            background-color: #00ced1; /* Cor de fundo padrão para o conteúdo para contrastar com o body */
+            border-radius: 8px; /* Adiciona um arredondamento sutil ao conteúdo */
+            margin-top: 2vh; /* Adiciona um pouco de espaço entre o cabeçalho e o conteúdo */
+            margin-bottom: 2vh; /* Adiciona um pouco de espaço abaixo do conteúdo */
+            padding-bottom: 2vh; /* Adiciona um pouco de padding na parte inferior do conteúdo */
+        }
+
+        .rodape {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            padding: 3vh 5vw; /* Margem interna superior/inferior e laterais relativas à viewport */
+            background-color: #f5f5f5; /* Nova cor de fundo do rodapé */
+            color: #1e1e1e; /* Nova cor da fonte do rodapé */
+            box-sizing: border-box;
+        }
+
+        .rodape h1 {
+            font-size: 2em;
+            margin-bottom: 1vh;
+            color: #1e1e1e; /* Garante que o h1 também tenha a nova cor */
+        }
+
+        .rodape h2 {
+            font-size: 1em;
+            font-weight: normal;
+            margin-bottom: 1vh;
+            color: #1e1e1e; /* Garante que o h2 também tenha a nova cor */
+        }
+
+        .rodape audio {
+            max-width: 50vw; /* Largura máxima do áudio relativa à largura da viewport */
+        }
+
+        /* Media query para telas menores que 1200px (laptops menores) */
+        @media (max-width: 1200px) {
+            .barra-menu a {
+                font-size: 14px; /* Mantém o tamanho da fonte */
+            }
+
+            .logomarca img {
+                max-width: 20vw;
+                max-height: 8vh;
+            }
+
+            .texto-logo {
+                font-size: 24px; /* Mantém o tamanho da fonte */
+            }
+        }
+
+        /* Media query para telas menores que 992px (tablets) */
+        @media (max-width: 992px) {
+            .cabecalho {
+                flex-direction: column;
+                height: auto;
+                padding: 1.5vh 3vw;
+                padding-left: 2vw;
+                padding-right: 2vw;
+            }
+
+            .logomarca-container {
+                margin-bottom: 1vh;
+                /* align-items: center; já está presente */
+                justify-content: center; /* Centraliza horizontalmente na coluna */
+                margin-right: 0;
+            }
+
+            .barra-menu {
+                flex-direction: row;
+                gap: 1.5vw;
+                margin-top: 1vh;
+                justify-content: center; /* Centraliza horizontalmente o menu */
+            }
+
+            .barra-menu a {
+                font-size: 12px; /* Reduz um pouco o tamanho em tablets */
+                padding: 0.5vh 1vw; /* Adiciona um pouco de padding para facilitar o toque */
+            }
+
+            .texto-logo {
+                font-size: 18px;
+            }
+
+            .rodape h1 {
+                font-size: 1.8em;
+            }
+
+            .rodape h2 {
+                font-size: 0.9em;
+            }
+
+            .rodape audio {
+                max-width: 70vw;
+            }
+        }
+
+        /* Media query para telas menores que 768px (smartphones) */
+        @media (max-width: 768px) {
+            .cabecalho {
+                padding-left: 2vw;
+                padding-right: 2vw;
+            }
+
+            .logomarca-container {
+                flex-direction: column; /* Coloca logo e texto em coluna */
+                align-items: center; /* Centraliza horizontalmente */
+                margin-bottom: 0.5vh;
+            }
+
+            .logomarca img {
+                max-width: 40vw;
+                max-height: 12vh;
+                margin-right: 0;
+            }
+
+            .texto-logo {
+                font-size: 16px;
+            }
+
+            .barra-menu {
+                flex-direction: column;
+                align-items: center;
+                margin-top: 1vh;
+            }
+
+            .barra-menu a {
+                margin: 0.5vh 0;
+                display: block;
+                text-align: center;
+                width: 100%; /* Ocupa a largura total */
+                padding: 1vh 0;
+                box-sizing: border-box; /* Garante que o padding não aumente a largura */
+                font-size: 12px; /* Reduz um pouco mais em smartphones */
+            }
+
+            .rodape h1 {
+                font-size: 1.5em;
+            }
+
+            .rodape h2 {
+                font-size: 0.8em;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <form id="form1" runat="server">
+        <div class="cabecalho">
+            <div class="logomarca-container">
+                <div class="logomarca">
+                    <asp:Image ID="Image1" ImageUrl="~/images/logo2.png" runat="server" />
+                </div>
+                <div class="texto-logo">Cronos</div>
+            </div>
+            <div class="barra-menu">
+                <asp:HyperLink NavigateUrl="~/Default.aspx"
+                    Style="color: #1e1e1e; font-family: 'Poppins', sans-serif; font-weight: normal; text-decoration: none; font-size: 14px;"
+                    ID="HyperLink1"
+                    runat="server"
+                    onmouseover="this.style.color='#ff007f';"
+                    onmouseout="this.style.color='#1e1e1e'; this.style.textDecoration='none';"
+                    >Home</asp:HyperLink>
+                <asp:HyperLink NavigateUrl="~/Contato.aspx"
+                    Style="color: #1e1e1e; font-family: 'Poppins', sans-serif; font-weight: normal; text-decoration: none; font-size: 14px;"
+                    ID="HyperLink2"
+                    runat="server"
+                    onmouseover="this.style.color='#ff007f';"
+                    onmouseout="this.style.color='#1e1e1e'; this.style.textDecoration='none';"
+                    >Contato</asp:HyperLink>
+                <asp:HyperLink NavigateUrl="~/ExibirLog.aspx"
+                    Style="color: #1e1e1e; font-family: 'Poppins', sans-serif; font-weight: normal; text-decoration: none; font-size: 14px;"
+                    ID="HyperLink3"
+                    runat="server"
+                    onmouseover="this.style.color='#ff007f';"
+                    onmouseout="this.style.color='#1e1e1e'; this.style.textDecoration='none';"
+                    >Logs</asp:HyperLink>
+            </div>
+        </div>
+        <div class="conteudo">
+            <div class="content-wrap">
+                <div class="propaganda" style="height:20px;"></div>
+                <asp:ContentPlaceHolder ID="Conteudo" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+        </div>
+        <div class="rodape" style="padding:5%;color:#1e1e1e; background-color: #f5f5f5; width: 100%; height: auto;">
+            <div class="content-footer">
+                <h1 style="margin-bottom:20px; color:#1e1e1e;">Cronos - O controle do tempo em suas mãos.</h1>
+                <br />
+                <asp:HyperLink ID="HyperLink4" runat="server" NavigateUrl="https://linkedin.com" Target="_blank" style="color: #1e1e1e; text-decoration: none">Linkedin</asp:HyperLink>
+                <br />
+                <asp:HyperLink ID="HyperLink5" runat="server" NavigateUrl="https://instagram.com" Target="_blank" style="color: #1e1e1e; text-decoration: none">Instagram</asp:HyperLink>
+                <br />
+                <br />
+                <br />
+                <br />
+                <h2 style="margin-bottom:20px; font-weight: normal; color:#1e1e1e;">Cronos - Todos os direitos reservados.</h2>
+            </div>
+        </div>
+    </form>
+</body>
+</html>
