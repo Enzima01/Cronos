@@ -1,4 +1,4 @@
-# Cronos
+# Cronos ⌛
 
 ## PT-BR |
 Cronos foi um projeto desenvolvido como parte de um trabalho acadêmico da faculdade, com o objetivo de simular um sistema de planos de assinatura para uma plataforma de controle de ponto digital para empresas de diferentes portes.
