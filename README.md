@@ -11,7 +11,7 @@ Criar uma interface funcional e moderna que apresenta três planos (Básico, Ess
 
 - ASP.NET Web Forms
 
-- HTML / CSS
+- HTML / CSS / JavaScript
 
 - C#
 
@@ -29,7 +29,7 @@ Create a functional and modern interface that presents three plans (Basic, Essen
 
 - ASP.NET Web Forms
 
-- HTML / CSS
+- HTML / CSS / JavaScript
 
 - C#
   
